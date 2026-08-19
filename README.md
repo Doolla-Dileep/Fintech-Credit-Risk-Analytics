@@ -17,3 +17,5 @@
 •	 Business Intelligence Engineering. Loaded the polished SQL pipeline into Power BI Desktop, structuring automated KPI indicators to monitor a $17M+ loan portfolio, average yields (12.21%), and total delinquency exposure (53.0%).
 
 •	Visual Optimization & Dashboard Deployment. Built an interactive dark-themed layout using risk treemaps, demographic line charts, and cascading slicer filters to isolate non-performing asset clusters and deploy the asset online via GitHub.
+
+##
