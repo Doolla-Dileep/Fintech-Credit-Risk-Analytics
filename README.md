@@ -6,7 +6,7 @@ The project aims to design interactive credit risk dashboards that analyze loan 
 
 ## Dataset Used
 <a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/clean_loan_data.csv">Dataset</a>
-
+<a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/credit_risk_dataset.sql">Dataset</a>
 
 ## Process
 •	 Data Acquisition & Localization. Sourced a credit profile dataset containing 32,581 raw borrower logs from Kaggle and localized structural labels to represent regional financial zones, establishing an industry-relevant dataset baseline.
