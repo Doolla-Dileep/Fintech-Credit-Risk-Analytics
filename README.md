@@ -20,3 +20,5 @@ The project aims to design interactive credit risk dashboards that analyze loan 
 
 ## Dashboard
 <a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/Dashboard%20screenshot.png">Dashboard</a>
+
+## Project Insights
