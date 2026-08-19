@@ -3,3 +3,6 @@
 
 ## Project Objective
 "The project aims to design interactive credit risk dashboards that analyze loan performance data and emerging delinquency trends. It provides insights into portfolio defaults, yield benchmarks, risk grade distributions, and borrower demographic preferences. By visualizing financial metrics, customer income brackets, and local geographic clusters, the dashboards help risk management teams, banking executives, and credit officers identify high-value lending opportunities and align capital preservation strategies with market risk tolerances."
+
+## Dataset Used
+<a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/clean_loan_data.csv">Dataset</a>
