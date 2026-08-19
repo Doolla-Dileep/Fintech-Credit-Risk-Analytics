@@ -19,6 +19,7 @@ The project aims to design interactive credit risk dashboards that analyze loan 
 •	Visual Optimization & Dashboard Deployment. Built an interactive dark-themed layout using risk treemaps, demographic line charts, and cascading slicer filters to isolate non-performing asset clusters and deploy the asset online via GitHub.
 
 ## Dashboard
-<a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/Dashboard%20screenshot.png">Dashboard</a>
+<img width="617" height="339" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/378ec1a5-879c-4799-a9ba-1efdec16b5e8" />
 
-## Project Insights
+## View Dashboard
+<a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/Dashboard%20screenshot.png">Dashboard</a>
