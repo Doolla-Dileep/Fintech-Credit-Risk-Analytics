@@ -23,3 +23,12 @@ The project aims to design interactive credit risk dashboards that analyze loan 
 
 ## View Dashboard
 <a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/Dashboard%20screenshot.png">Dashboard</a>
+
+## Conclusion
+The Credit Risk & NPA Analytics Dashboard, built using Microsoft Power BI Desktop, provides a comprehensive view of current lending patterns, borrower behaviors, and default trends across income brackets and demographics.
+
+The analysis reveals that the portfolio performance is strongly driven by risk and grading-related classifications, with loan indicators like internal Grades E/F and rental housing statuses being highly tied to non-performing assets. 
+
+Cities such as Bangalore continue to dominate digital fintech and banking innovations, reflecting its position as a major financial tech hub.
+
+Overall, the dashboard enables data-driven decision-making by identifying key vulnerabilities, helping credit officers focus on capital preservation and guiding financial organizations in underwriting optimization strategies.
