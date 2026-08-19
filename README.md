@@ -8,8 +8,8 @@
 <a href="https://github.com/Doolla-Dileep/Fintech-Credit-Risk-Analytics/blob/main/clean_loan_data.csv">Dataset</a>
 
 ## Process
-Step 1: Data Acquisition & Localization. Sourced a credit profile dataset containing 32,581 raw borrower logs from Kaggle and localized structural labels to represent regional financial zones, establishing an industry-relevant dataset baseline.
-Step 2: Relational Schema & Database Ingestion. Created a secure financial database environment inside MySQL Server and utilized the structural import engine to warehouse the transaction records into raw production tables.
-Step 3: Advanced Data Wrangling & Sanitization. Executed optimized SQL scripts to handle real-world database anomalies, wiping out extreme demographic outliers and rectifying missing values using nested database aggregations.
-Step 4: Business Intelligence Engineering. Loaded the polished SQL pipeline into Power BI Desktop, structuring automated KPI indicators to monitor a $17M+ loan portfolio, average yields (12.21%), and total delinquency exposure (53.0%).
-Step 5: Visual Optimization & Dashboard Deployment. Built an interactive dark-themed layout using risk treemaps, demographic line charts, and cascading slicer filters to isolate non-performing asset clusters and deploy the asset online via GitHub.
+•	 Data Acquisition & Localization. Sourced a credit profile dataset containing 32,581 raw borrower logs from Kaggle and localized structural labels to represent regional financial zones, establishing an industry-relevant dataset baseline.
+•	 Relational Schema & Database Ingestion. Created a secure financial database environment inside MySQL Server and utilized the structural import engine to warehouse the transaction records into raw production tables.
+•	 Advanced Data Wrangling & Sanitization. Executed optimized SQL scripts to handle real-world database anomalies, wiping out extreme demographic outliers and rectifying missing values using nested database aggregations.
+•	 Business Intelligence Engineering. Loaded the polished SQL pipeline into Power BI Desktop, structuring automated KPI indicators to monitor a $17M+ loan portfolio, average yields (12.21%), and total delinquency exposure (53.0%).
+•	Visual Optimization & Dashboard Deployment. Built an interactive dark-themed layout using risk treemaps, demographic line charts, and cascading slicer filters to isolate non-performing asset clusters and deploy the asset online via GitHub.
